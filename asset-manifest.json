@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/online-shop-context-react/static/css/main.4c2a57bc.chunk.css",
+    "main.js": "/online-shop-context-react/static/js/main.46869967.chunk.js",
+    "main.js.map": "/online-shop-context-react/static/js/main.46869967.chunk.js.map",
+    "runtime~main.js": "/online-shop-context-react/static/js/runtime~main.96ceee0f.js",
+    "runtime~main.js.map": "/online-shop-context-react/static/js/runtime~main.96ceee0f.js.map",
+    "static/js/2.a67a8cc1.chunk.js": "/online-shop-context-react/static/js/2.a67a8cc1.chunk.js",
+    "static/js/2.a67a8cc1.chunk.js.map": "/online-shop-context-react/static/js/2.a67a8cc1.chunk.js.map",
+    "index.html": "/online-shop-context-react/index.html",
+    "precache-manifest.7c93c742a6a4cdfa55690dcccaf07e7d.js": "/online-shop-context-react/precache-manifest.7c93c742a6a4cdfa55690dcccaf07e7d.js",
+    "service-worker.js": "/online-shop-context-react/service-worker.js",
+    "static/css/main.4c2a57bc.chunk.css.map": "/online-shop-context-react/static/css/main.4c2a57bc.chunk.css.map"
+  }
+}
